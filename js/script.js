@@ -1,10 +1,10 @@
 //STEP1
 
-let someMonth;
+/*let someMonth;
 function theMonth();
 let currentMonth;
 let summerMonth;
-let myLibraryFunction;
+let myLibraryFunction;*/
 
 //STEP2
 //An example of:
