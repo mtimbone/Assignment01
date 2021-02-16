@@ -201,10 +201,6 @@ console.log(x + y);
 //STEP18
 
 
-
-
-
-
 //18.	Declare a variable called x and assign it a value of 20.
 //Add and assign 20 to that variable and display the result in the console window.
 
